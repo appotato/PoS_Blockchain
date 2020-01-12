@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="PoS_Blockchain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PoS_Blockchain_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PoS_Blockchain.jar">
+        <element id="module-output" name="PoS_Blockchain" />
+      </element>
+    </root>
+  </artifact>
+</component>
